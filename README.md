@@ -1,3 +1,4 @@
+因修改文件眾多，且整體容量龐大，所以僅做記錄。
 # Vulkan-GLTF-BSSRDF-Practice
 以[vk_raytracing_tutorial_KHR](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)為基底，
 和修改其中的ray_tracing_gltf來實作次表面散射。
